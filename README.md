@@ -13,7 +13,7 @@ const MaGAS = {
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 👩‍💻 I'm working on
-* Building projects and my portfolio website.
+* Building projects, my goal is to have at least 20 projects completed between personal and courses.
 * Learning Front-End Web:computer: Development
 * Deepening my learning in React native and also as a Backend developer
 
