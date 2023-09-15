@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I´m Gabriela 👋💻
+I studied a Bachelor's degree in Computer Science, Passionate about technology and reading.
 
-<!--
-**magas1507/magas1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me in code
+```js
+const MaGAS = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Sass, Less],
+  Cmr: [WordPress, Vtex] 
+}
+```
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+### 👩‍💻 I'm working on
+* Building projects and my portfolio website.
+* Learning Front-End Web:computer: Development
+* Deepening my learning in React native and also as a Backend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/maria-gabriela-acosta-salvatierra-583102133/">Maria Gabriela Acosta</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,nodejs,sass,vscode,tailwind,postgres,ts,bootstrap,redux,wordpress,vtex" />
+  </a>
+</p>
